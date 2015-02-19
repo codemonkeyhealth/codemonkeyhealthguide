@@ -146,7 +146,7 @@ Making a full body movement takes about 90 seconds. This brief amount of time is
 
 A good routine will begin with you standing and working muscle groups from your neck to your feet and back to your neck (if time permits) and take no more than 3 minutes. The routine should be fluid, almost like a slow dance.  
 
-Before you begin your routine you may want to take a moment to shake loose.  This is done by standing with your feet almost shoulder width apart and shifting your weight between your left and right side. First at only your feet, then add your legs, hips, back and arms. Do not intentionally shake your head or neck.
+Before you begin your routine you may want to take a moment to shake loose.  This is done by standing with your feet about hip width apart and shifting your weight between your left and right side. First at only your feet, then add your legs, hips, back and arms. Do not intentionally shake your head or neck.
 
 A complete Full Body Movement routine is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
 
