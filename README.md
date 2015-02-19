@@ -1,4 +1,5 @@
 # The Official Code Monkey Guide to Healthier, Happier Programmers #
+![Code Monkey Health](http://codemonkeyhealth.com/wp-content/uploads/2015/02/200-code-monkey.png)
 Let's face it. Programmers are not gym rats. Sure, there may be one or two among the herd but by and large our brood is comprised of chair rocking, hydraulic desk loving, don't touch whatever is in our coffee mug, heads down coders. You will find us in a lot of places but the gym is generally not one of them.  It's not that programmers don't want to be healthy. It's more, what most people do for health simply does not fit into the lifestyle of a programmer.
 
 Thankfully, the science continues to prove that going the gym does not offer programmers and other more sedentary professionals any significant health benefit. Of course, this is not a free pass or excuse for living pain riddled, fatigued, hypertensive, diabetic, heart attack waiting to happen life.  Instead, it should be seen as an invitation to integrate health elements into a daily routine that fit into an existing lifestyle.
