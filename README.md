@@ -1,3 +1,85 @@
+# The Official Code Monkey Guide to Healthier, Happier Programmers #
+![Code Monkey Health](http://codemonkeyhealth.com/wp-content/uploads/2015/02/200-code-monkey.png)
+Let's face it. Programmers are not gym rats. Sure, there may be one or two among the herd but by and large our brood is comprised of chair rocking, hydraulic desk loving, don't touch whatever is in our coffee mug, heads down coders. You will find us in a lot of places but the gym is generally not one of them.  It's not that programmers don't want to be healthy. It's more, what most people do for health simply does not fit into the lifestyle of a programmer.
+
+Thankfully, the science continues to prove that going the gym does not offer programmers and other more sedentary professionals any significant health benefit. Of course, this is not a free pass or excuse for living pain riddled, fatigued, hypertensive, diabetic, heart attack waiting to happen life.  Instead, it should be seen as an invitation to integrate health elements into a daily routine that fit into an existing lifestyle.
+
+Live tested for 3 years before release, the Code Monkey Health Guide was developed by a Certified Health Coach, Personal Trainer and Weight Management Specialist specifically for programmers.
+> 
+Our **Code Monkey Health Guide** is an open source project.  We offer additional tools to enhance the basic guide but the core is and always will be free and open to the community.  You can download the guide as a pdf, find the core concepts on github, or read them below.
+
+Should you prefer to enjoy the additional tools you can subscribe to Code Monkey Health for $5 a month.  We regularly post subscriber exclusive videos, tips and recipes as well as host a bi-monthly Health Sync Up Call with allied health professionals ready to answer your health questions.
+
+# The Official Code Monkey Guide to Healthier, Happier Programmers #
+
+
+Before we dive into the actual guide, let's take a moment to look at two tools which will make the guide run smoother.
+
+## WakeandFlush ##
+**Your first step to a healthy, happy day**
+
+#### Goal: ####
+ 
+Drink 16 to 24 ounces of fresh filtered water immediately upon waking. Do this - literally - **before** your feet hit the floor.  If you forget, don't beat yourself up but do stop and chug some down.
+
+#### Best practices: ####
+
+Place appropriate sized container of water next to bed the night before.
+
+#### Beginners: ####
+
+If 16 to 24 ounces is too difficult begin by taking a large drink of water from the container.  This should result in a 1 to 2 ounce intake. Gradually work your way up to 16 to 24.  Even if you are beginning with less water, you should develop the habit with a container that will accommodate the full 16 to 24 ounces. You will be amazed at how much easier it is to work up to the full amount if you consistently have the full amount available.
+
+> WakeandFlush and [FirstFuel](https://github.com/codemonkeyhealth/firstfuel "FirstFuel") are two basics that will make [Scheduler](https://github.com/codemonkeyhealth/scheduler "Scheduler"), [WorkDay](https://github.com/codemonkeyhealth/workday "WorkDay"), and [Hydrator](https://github.com/codemonkeyhealth/hydrator "Hydrator") run better.
+
+Extra tools for WakeandFlush and FirstFuel can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+
+## FirstFuel ##
+**Your morning\* jump and go**
+
+> *You're a programmer, so we know that "morning" is whenever you roll out of bed and stumble to your computer ;) 
+
+
+#### Goal: ####
+
+Eat 300 calories total of lean proteins, complex carbohydrates, dietary fiber and healthy fats within 25 minutes of waking.
+
+#### Best practices:  ####
+Use 100% plant based sources for this fuel up. 30% of calories from complex carbohydrates, 40% from plant based protein, 30% from plant based, healthy fats.  Using this standard will ensure you include the necessary dietary fiber without overdosing on fast and loose proteins, unhealthy fats, and pancreas crashing carbs which cause inflammation, pain and brain fog.
+
+#### Beginners: ####
+Use ready to eat vegan bars or vegan protein mixes while developing the habit.  Progress to homemade bars, whole food smoothies or quinoa breakfast wraps as your habit develops.
+
+> [WakeandFlush](https://github.com/codemonkeyhealth/wakeandflush "Wake and Flush") and FirstFuel are two basics that will make [Scheduler](https://github.com/codemonkeyhealth/scheduler "Scheduler"), [WorkDay](https://github.com/codemonkeyhealth/workday "WorkDay"), and [Hydrator](https://github.com/codemonkeyhealth/hydrator "Hydrator") run better.
+
+Extra tools for [WakeandFlush](https://github.com/codemonkeyhealth/wakeandflush "Wake and Flush") and FirstFuel can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+
+#### Now, let's dive into the actual Code Monkey Health Guide ####
+
+## Scheduler ##
+**It's a CronTab for your health routine**
+
+
+Ensures the Code Monkey Guide to Health elements and packages are are executed in a timely and efficient manner. 
+
+#### Goal: ####
+
+Integrate daily lifestyle, exercise, attitude and nutrition elements into the life of a programmer. Once fully integrated elements will be as natural as breathing.
+
+#### Best Practices: ####
+
+Take 30 to 120 seconds every 30 to 60 minutes to complete a health element.
+
+#### Beginners: ####
+
+Use a calendar or task reminder to alert you of specific health habit tasks. Obtain more support by hiring a freelance health coach/trainer with experience supporting programmers. 
+
+Here's a common implementation chart for a 10 hour day.
+
+![](http://cdn.lynxtdc.com/codemonkeyhealth/cmh_impChart.png)
+
+More information and extra tools for Scheduler can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+
 ## WorkDay ##
 **Five simple steps to health and happiness**
 
@@ -224,3 +306,57 @@ Our Fast High Stepping routine includes light impact for your hands to help impr
 If you keep track and post your totals on the Code Monkey Health Heart Rate Tracking page you could receive a healthy gift. We randomly choose a participant every 6 weeks and send them a treat. You will have to register with the site to participate. Registration is free.
 
 More information and extra tools for WorkDay and the Complete Guide  can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+
+## Hydrator ##
+**Cause you need to drink (water!)**
+
+
+Develops the habit of drinking small amounts of water throughout your daily routine.
+
+
+### Goal: ###
+
+Drink ½ to 1 full ounce of water per pound of bodyweight every day.
+Bodyweight ÷ 2 = minimal number of ounces of water your body needs to remain upright and breathing every day.
+
+This equation does not take into consideration other needs of your body such as off-setting coffee, tea, soda or alcohol intake. 
+
+### Best practices: ###
+
+Fill a suitable container with fresh filtered or tap water and keep it with you throughout your day.
+
+### Beginners: ###
+
+If you currently do not drink this amount of water begin by adding 8 ounces of water to your daily routine.  Increase by 8 ounces every 2 to 4 days.
+
+#### Why You Need Hydrator ####
+
+The World Health Organization reports ischaemic heart disease, stroke, lower respiratory infections and chronic obstructive lung disease as the leading cause of death globally.
+
+Researches have concluded that ALL of these diseases are significantly impacted by hydration, or more accurately the lack thereof.
+
+In other words, the state of chronic, mild dehydration contributes to or possibly causes  3 of the 4 leading causes of death - globally. 
+
+#### The three we know for sure proper hydration helps: ####
+1. The study results from "Water, Other Fluids, and Fatal Coronary Heart Disease" published in the American Journal of Epidemiology (Vol. 155, No.9) reveal that drinking high amounts of plain water is as important as exercise, diet, or not smoking in preventing coronary heart disease. 
+2. The Journal of the Neurological Sciences study "The influence of fluid intake on stroke recurrence--a prospective study" concluded: data suggests that a fluid intake of more than 2000 ml per day might be a protective factor in secondary stroke prevention.
+3. The Cleveland Clinic nutritional guidelines for COPD patients includes a minimum of 6 to 8 eight-ounce glasses of non-caffeinated beverages daily. 
+
+So why does water matter so much?  
+
+Water has 2 primal functions in the human body: carry nutrients into and drive toxins/toxics out of cells.  
+
+The way these two functions impact the body is fascinating.  Speaking, healing, sleeping, breathing, even basic movement is contingent upon having the right type and amount of water available.  
+
+A steady influx of water is best for hydration purposes. A fast flooding of water is best for flushing purposes.  This is why [WakeandFlush](https://github.com/codemonkeyhealth/wakeandflush "Wake and Flush") utilizes 16 to 24 ounces of water upon waking. But hydration requires a softer touch. You want to water your body the same gentle way you would a garden, not pressure wash it like your deck or driveway.
+
+Ideally, water would be your beverage of choice. Realistically, that is not going to happen. I have a cup of coffee (with real cream and real sugar) along with a half consumed cola sitting on my desk as I type this. AND I AM A HEALTH COACH AND TRAINER!!!
+
+However, I have also dripped a gallon of fresh filtered water into my lovely self since I've been awake today - not including my [WakeandFlush](https://github.com/codemonkeyhealth/wakeandflush "Wake and Flush") intake.
+
+
+More information and extra tools for Hydrator can be found on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health").
+
+# Be sure to check out our [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health") site for the latest and greatest #
+
+Don't forget to sign up for our newsletter either!
