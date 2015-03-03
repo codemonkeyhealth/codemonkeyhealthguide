@@ -149,7 +149,13 @@ A good routine will begin with you standing and working muscle groups from your 
 
 Before you begin your routine you may want to take a moment to shake loose.  This is done by standing with your feet about hip width apart and shifting your weight between your left and right side. First at only your feet, then add your legs, hips, back and arms. Do not intentionally shake your head or neck.
 
-A complete [Full Body Movement routine can be downloaded here](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics.pdf "CMH Full Body Movement Routine") and is available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
+#### Downloads ####
+[Full Body Movement - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics.pdf "CMHG Full Body Basics Routine (Complete)")
+[Full Body Movement - 4 Up Exercise Illustrations](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics_4UP.pdf "CMHG Full Body Basics Routine (4UP)")
+[Full Body Movement - 12 Up Exercise Illustrations](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics_12UP.pdf "CMHG Full Body Basics Routine (12UP)")
+[Full Body Movement - Action Tracking Chart](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics_Tracker.pdf "CMHG Full Body Basics Routine (Tracker)")
+
+Also available on [CodeMonkeyHealth.com](http://codemonkeyhealth.com "Code Monkey Health"). 
 
 #### Hip n Knee ####
 
