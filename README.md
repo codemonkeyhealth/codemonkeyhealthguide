@@ -149,7 +149,7 @@ A good routine will begin with you standing and working muscle groups from your 
 
 Before you begin your routine you may want to take a moment to shake loose.  This is done by standing with your feet about hip width apart and shifting your weight between your left and right side. First at only your feet, then add your legs, hips, back and arms. Do not intentionally shake your head or neck.
 
-** Downloads **
+**Downloads**
 
 [Full Body Movement - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Full-Body-Basics.pdf "CMHG Full Body Basics Routine (Complete)")
 
@@ -184,7 +184,7 @@ Next, Keeping your feet flat on floor, shoulder width apart, squat as low as is 
 
 Modify this movement into a deep knee squat when you can. Here's how: Stand with feet shoulder width apart and squat deeply, head and chest up. No chair, desk or wall support. Arms stretched straight out in front, palms down.
 
-** Downloads **
+**Downloads**
 
 [Hips n Knees - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Hips-Knees-Basics.pdf "CMHG Hips Knees Basics Routine (Complete)")
 
@@ -226,7 +226,7 @@ These next two work sitting, standing or even walking.  Bring your right arm ove
 
 Bend your left elbow as far as possible. With other hand, try to bend it further. Hold up to 30 seconds. Relax and repeat with your other arm.
 
-** Downloads **
+**Downloads**
 
 [Hands, Elbows and Wrists - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-HEW-Basics.pdf "CMHG HEW Basics Routine (Complete)")
 
@@ -263,7 +263,7 @@ Place left hand on your left side shoulder blade. With your right hand, gently s
 
 Remember all the neck movements can be completed while sitting, standing or walking.  You should see Mr. Code Monkey making his way to the kitchen for more coffee.
 
-** Downloads **
+**Downloads**
 
 [Neck Support - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Neck-Support-Basics.pdf "CMHG Neck Support Basics Routine (Complete)")
 
@@ -302,7 +302,7 @@ If you have access to a doorway or one of the walls that seems to end in the mid
 
 With your elbow bent at 90° place the palm of your left hand against the door frame (or edge of wall). Turn body away from your hand on the frame/wall until a stretch is felt. Hold for 3 to 5 seconds. Repeat on other side.  Now, slide your right arm up the wall (with your palm facing out) and lean toward the wall/doorway.  Repeat with other side.
 
-** Downloads **
+**Downloads**
 
 [Shoulder Swagger - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Shoulder-Swagger-Basics.pdf "CMHG Shoulder Swagger Basics (Complete)")
 
@@ -331,7 +331,7 @@ Take your foot off your chair and stand with your knees bent and upper body lean
 
 Follow these with side and front lunges.  Stand with your knees slightly bent, feet flat on the floor and stomach tight.  Take a side step with your right leg, without moving your other leg. Hold for 3 to 15 seconds. Then return to standing position and repeat with other leg.  With your feet shoulder width apart, feet flat on the floor and stomach tight, this time step forward with your left leg. Your hips may shift forward but they should not "drop" down. That is a different exercise for a different part of your body.  Hold for 1 to 10 seconds. Return to starting position and repeat with other leg.
 
-** Downloads **
+**Downloads**
 
 [Back Guard - Complete Package](http://cdn.lynxtdc.com/codemonkeyhealth/exercise-guides/CMHG-Back-Guard-Basics.pdf "CMH Back Guard Basics Routine (Complete)")
 
